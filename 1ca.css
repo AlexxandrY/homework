@@ -1,0 +1,28 @@
+main section div {
+    float: left;
+    width:25%;
+}
+main div img {
+    width:75%;
+}
+footer ul {
+    margin: auto;
+}
+footer ul li {
+    float: left;
+    display: inline;
+    font-size: large;
+}
+nav ul li {
+    text-align: left;
+    display: inline;
+    font-size: larger;
+}
+#pantera {
+    float: left;
+    margin: 5px;
+}
+
+div:hover img {
+    border: #ff3a44 double 1px;
+}
